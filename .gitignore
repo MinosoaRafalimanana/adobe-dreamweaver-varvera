@@ -1,0 +1,6 @@
+dist/
+.env.local
+yarn-error.log*
+.env
+*.tgz
+.pnpm-store/
